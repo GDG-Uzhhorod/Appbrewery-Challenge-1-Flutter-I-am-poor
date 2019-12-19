@@ -3,7 +3,8 @@
 Appbrewery: The Complete Flutter Development Bootcamp Using Dart
 
 
-To generate app Logo  -> https://www.canva.com/
+To generate app Logo  -> https://www.canva.com
+
 To generate app Icon in all size -> https://appicon.co
 
 
