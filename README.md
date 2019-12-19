@@ -2,6 +2,7 @@
 
 Appbrewery: The Complete Flutter Development Bootcamp Using Dart
 
+![Appbrewery: The Complete Flutter Development Bootcamp Using Dart](https://github.com/GDG-Uzhhorod/Appbrewery-Challenge-1-Flutter-I-am-poor/blob/master/app.jpg)
 
 To generate app Logo  -> https://www.canva.com
 
