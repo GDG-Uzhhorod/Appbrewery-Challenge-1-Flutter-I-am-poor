@@ -2,7 +2,13 @@
 
 Appbrewery: The Complete Flutter Development Bootcamp Using Dart
 
-sample by GDG Uzhhorod/ @BruSD
+
+To generate app Logo  -> https://www.canva.com/
+To generate app Icon in all size -> https://appicon.co
+
+
+
+sample by GDG Uzhhorod/ BruSD
 
 
 Check curse -> https://www.appbrewery.co/courses/548873/
