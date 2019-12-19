@@ -28,7 +28,11 @@ class MyApp extends StatelessWidget {
             centerTitle: true,
             backgroundColor: Colors.orange,
           ),
-          body: Center(child: Text('Image to center will be here')),
+          body: Center(
+              child: Image.asset(
+            'assets/image.jpg',
+            fit: BoxFit.fitWidth,
+          )),
         ));
   }
 }
