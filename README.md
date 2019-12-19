@@ -1,7 +1,11 @@
-# i_am_poor
+# i_am_poor - Challenge -1
 
-Appbrewery flutter certification course  sample by GDG Uzhhorod BruSD
+Appbrewery: The Complete Flutter Development Bootcamp Using Dart
 
+sample by GDG Uzhhorod/ @BruSD
+
+
+Check curse -> https://www.appbrewery.co/courses/548873/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
