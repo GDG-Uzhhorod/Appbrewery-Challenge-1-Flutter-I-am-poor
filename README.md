@@ -10,10 +10,10 @@ To generate app Icon in all size -> https://appicon.co
 
 
 
-sample by GDG Uzhhorod/ BruSD
+sample by [GDG Uzhhorod](https://github.com/GDG-Ukraine) / [BruSD](https://github.com/BruSD)
 
+[Check curse ->](https://www.appbrewery.co/courses/548873/)
 
-Check curse -> https://www.appbrewery.co/courses/548873/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
