@@ -10,7 +10,7 @@ To generate app Icon in all size -> https://appicon.co
 
 
 
-sample by [GDG Uzhhorod](https://github.com/GDG-Ukraine) / [BruSD](https://github.com/BruSD)
+sample by [GDG Uzhhorod](https://github.com/GDG-Uzhhorod) / [BruSD](https://github.com/BruSD)
 
 [Check curse ->](https://www.appbrewery.co/courses/548873/)
 
