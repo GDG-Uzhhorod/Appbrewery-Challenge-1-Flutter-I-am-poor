@@ -1,6 +1,6 @@
 # i_am_poor - Challenge -1
 
-Appbrewery: The Complete Flutter Development Bootcamp Using Dart
+[Appbrewery](https://www.appbrewery.co/): The Complete Flutter Development Bootcamp Using Dart 
 
 ![Appbrewery: The Complete Flutter Development Bootcamp Using Dart](https://github.com/GDG-Uzhhorod/Appbrewery-Challenge-1-Flutter-I-am-poor/blob/master/app.jpg)
 
